@@ -4,7 +4,7 @@ This guide is here to give you some hints about how to add a contribution reques
 
 ## Create an issue
 
-1. Please specify whether you'd like to propose a new [step(https://bitrise.io/integrations), a tweak to our infrastructure, or a nice new tool.
+1. Please specify whether you'd like to propose a new [step](https://bitrise.io/integrations), a tweak to our infrastructure, or a nice new tool.
 
 2. Link to the new thing, or explain what's the idea.
 
