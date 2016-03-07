@@ -10,4 +10,4 @@ This guide is here to give you some hints about how to add a contribution reques
 
 3. Don't forget to mention which platform is your thing, iOS, Android, Xamarin, all, or a new one? Or, which stack you'd like to have tweaked? [OS X](https://github.com/bitrise-io/osx-box-bootstrap), [Linux (Docker)](https://github.com/bitrise-docker/bitrise-base), a new one?
 
-3. Are you going to work on it, or it's just a suggestion for others who'd like to contribute? *You are eligible for an 50% discount for the Pro plan with 1 container, if you're a Bitrise contributor. And a sticker. [A very nice sticker](http://blog.bitrise.io/images/contributor_mockup.jpg).*
+3. Are you going to work on it, or it's just a suggestion for others who'd like to contribute? *You are eligible for an 50% discount for the [Pro plan with 1 container](https://www.bitrise.io/pricing), if you're a Bitrise contributor. And a sticker. [A very nice sticker](http://blog.bitrise.io/images/contributor_mockup.jpg).*
