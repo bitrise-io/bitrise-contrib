@@ -8,7 +8,7 @@ Repository to collect projects & ideas for those who want to collaborate, and to
 
 For more information about what and how to contribute here, check out our [contribution guidelines](https://github.com/bitrise-io/bitrise-contrib/blob/master/CONTRIBUTION.md). 
 
-> You are eligible for a 50% discount from the Bitrise Pro plan with 1 container, if you are a Bitrise step contributor. Check out the [pricing page](https://bitrise.io/pricing) to see what you'll get.
+> You are eligible for a $25 discount from any of the monthly Bitrise Pro plans forever, if you are a Bitrise step contributor. Check out the [pricing page](https://bitrise.io/pricing) to see what you can get.
 
 To become a Bitrise step contributor, checking out the issues on this repository is a nice way to start. If you don't have any specific idea about what to integrate, but would love to help out, here you can find requests from the community waiting for you. You can find the list of already existing integrations on our [integrations page]([integrate](https://bitrise.io/integrations)), to collect some ideas.
 
