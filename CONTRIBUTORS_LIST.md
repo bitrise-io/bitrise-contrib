@@ -15,7 +15,8 @@ Template:
 
 * [full name]
   * GitHub: @username
-  * Bitrise.io: username
+  * Bitrise.io: [username]
+  * Please apply Contribution Discounts to this Bitrise.io user on my behalf: [username]
   * Steps I maintain:
     * Step 1 with link
   * Other Bitrise Contributions:
