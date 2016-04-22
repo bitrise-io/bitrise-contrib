@@ -11,8 +11,9 @@
 
 ## Outside Contributors
 
-Template:
+### Template:
 
+```
 * [full name]
   * GitHub: @username
   * Bitrise.io: [username]
@@ -21,3 +22,13 @@ Template:
     * Step 1 with link
   * Other Bitrise Contributions:
     * Bitrise CLI X plugin
+```
+
+### Contributors:
+
+* Marko Tadić
+  * GitHub: @tadija
+  * Bitrise.io: tadija
+  * Please apply Contribution Discounts to this Bitrise.io user on my behalf: appculture
+  * Steps I maintain:
+    * [Xcode Project Info](https://github.com/tadija/bitrise-step-xcode-project-info)
