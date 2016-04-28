@@ -12,7 +12,10 @@ For more information about what and how to contribute here, check out our [contr
 
 To become a Bitrise step contributor, checking out the issues on this repository is a nice way to start. If you don't have any specific idea about what to integrate, but would love to help out, here you can find requests from the community waiting for you. You can find the list of already existing integrations on our [integrations page]([integrate](https://bitrise.io/integrations)), to collect some ideas.
 
-Bitrise step contribution means development of a step/integration, and sharing it in the Bitrise StepLib. 
+Bitrise step contribution means development of a step/integration, and sharing it in the Bitrise StepLib. Once you have your Step in the [Bitrise StepLib](https://github.com/bitrise-io/bitrise-steplib) just add yourself to the [CONTRIBUTORS_LIST.md](https://github.com/bitrise-io/bitrise-contrib/blob/master/CONTRIBUTORS_LIST.md) and send us a Pull Request with it.
+
+*Note: please read the [Abandoned Step policy](https://github.com/bitrise-io/bitrise-steplib#abandoned-step-policy) section in the StepLib. By applying for the discount you accept this policy, and the discount will be active as long as you actively maintain your Step.*
+
 
 ## Get started
 
