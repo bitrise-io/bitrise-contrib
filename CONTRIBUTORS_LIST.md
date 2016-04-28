@@ -32,3 +32,9 @@
   * Please apply Contribution Discounts to this Bitrise.io user on my behalf: appculture
   * Steps I maintain:
     * [Xcode Project Info](https://github.com/tadija/bitrise-step-xcode-project-info)
+* Damien Gavard
+  * GitHub: @dag-io
+  * Bitrise.io: dag-io
+  * Please apply Contribution Discounts to this Bitrise.io user on my behalf: dag-io
+  * Steps I maintain:
+    * [Create JIRA comment with build](https://github.com/dag-io/post-jira-comment-with-build-details-step.git)
