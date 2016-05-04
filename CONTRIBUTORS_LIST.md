@@ -41,6 +41,6 @@
 * Jonathan Dick
   * GitHub: @redth
   * Bitrise.io: Redth
-  * Please apply Contribution Discounts to this Bitrise.io user on my behalf: [Redth]
+  * Please apply Contribution Discounts to this Bitrise.io user on my behalf: Redth
   * Steps I maintain:
     * [InstallrApp Deploy](https://github.com/Redth/bitrise-steps-installrapp-deploy)
