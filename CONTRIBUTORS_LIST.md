@@ -40,7 +40,7 @@
     * [Create JIRA comment with build](https://github.com/dag-io/post-jira-comment-with-build-details-step.git)
 * Jonathan Dick
   * GitHub: @redth
-  * Bitrise.io: [Redth]
+  * Bitrise.io: Redth
   * Please apply Contribution Discounts to this Bitrise.io user on my behalf: [Redth]
   * Steps I maintain:
     * [InstallrApp Deploy](https://github.com/Redth/bitrise-steps-installrapp-deploy)
