@@ -50,3 +50,10 @@
   * Please apply Contribution Discounts to this Bitrise.io user on my behalf: KevinMartin
   * Other Bitrise Contributions:
     * OSX-Bootstrap-Box
+* Jaspalsinh Chauhan
+  * GitHub: @jsinh
+  * Bitrise.io: jsinh
+  * Please apply Contribution Discounts to this Bitrise.io user on my behalf: jsinh
+  * Steps I maintain:
+    * [Set iOS Info.plist - Bundle Identifier](https://github.com/teference/steps-set-ios-bundle-identifier)
+    * [Set NuGet private source](https://github.com/teference/steps-set-nuget-private-source)
