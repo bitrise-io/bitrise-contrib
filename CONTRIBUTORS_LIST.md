@@ -44,3 +44,9 @@
   * Please apply Contribution Discounts to this Bitrise.io user on my behalf: Redth
   * Steps I maintain:
     * [InstallrApp Deploy](https://github.com/Redth/bitrise-steps-installrapp-deploy)
+* Kevin Martin
+  * GitHub: @KevinMartin
+  * Bitrise.io: KevinMartin
+  * Please apply Contribution Discounts to this Bitrise.io user on my behalf: KevinMartin
+  * Other Bitrise Contributions:
+    * OSX-Bootstrap-Box
