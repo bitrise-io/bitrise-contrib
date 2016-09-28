@@ -26,6 +26,12 @@
 
 ### Contributors:
 
+* Callum Taylor
+  * GitHub: @scruffyfox
+  * Bitrise.io: scruffyfox
+  * Please apply Contribution Discounts to this Bitrise.io user on my behalf: 3sidedcube (org)
+  * Steps I maintain:
+    * [S3 File uploader](https://github.com/scruffyfox/bitrise-amazon-s3-uploader)
 * Marko Tadić
   * GitHub: @tadija
   * Bitrise.io: tadija
