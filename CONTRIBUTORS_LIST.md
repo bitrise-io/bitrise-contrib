@@ -63,3 +63,11 @@
   * Steps I maintain:
     * [Set iOS Info.plist - Bundle Identifier](https://github.com/teference/steps-set-ios-bundle-identifier)
     * [Set NuGet private source](https://github.com/teference/steps-set-nuget-private-source)
+* Eliot Lash (Pear Therapeutics, Inc.)
+  * GitHub: @fadookie
+  * Please apply Contribution Discounts to this Bitrise.io user on my behalf: Pear Therapeutics organization
+  * Steps I maintain:
+    * [Amazon Device Farm File Deploy](https://github.com/peartherapeutics/bitrise-aws-device-farm-file-deploy)
+    * [Amazon Device Farm Runner](https://github.com/peartherapeutics/bitrise-aws-device-farm-runner)
+  * Other Bitrise Contributions:
+    * [Sample Appium Pytest-BDD test packager](https://github.com/peartherapeutics/bitrise-aws-device-farm-test-packager) (This is how we create test packages for use on Amazon Device Farm and is published for reference purposes, but is not designed to be a generic step.)
