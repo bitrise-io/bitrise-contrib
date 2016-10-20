@@ -71,3 +71,9 @@
     * [Amazon Device Farm Runner](https://github.com/peartherapeutics/bitrise-aws-device-farm-runner)
   * Other Bitrise Contributions:
     * [Sample Appium Pytest-BDD test packager](https://github.com/peartherapeutics/bitrise-aws-device-farm-test-packager) (This is how we create test packages for use on Amazon Device Farm and is published for reference purposes, but is not designed to be a generic step.)
+* Radim Vaculik (FUNTASTY Digital s.r.o.)
+  * GitHub: @radimvaculik
+  * Bitrise.io: radimvaculik
+  * Please apply Contribution Discounts to this Bitrise.io user on my behalf: FUNTASTY Digital s.r.o. (organization)
+  * Steps I maintain:
+    * [APK info](https://github.com/thefuntasty/bitrise-step-apk-info)
