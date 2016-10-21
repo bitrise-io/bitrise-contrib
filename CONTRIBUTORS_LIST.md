@@ -77,3 +77,9 @@
   * Please apply Contribution Discounts to this Bitrise.io user on my behalf: FUNTASTY Digital s.r.o. (organization)
   * Steps I maintain:
     * [APK info](https://github.com/thefuntasty/bitrise-step-apk-info)
+* Jonathan Irwin
+  * GitHub: @jonoiriwnrsa
+  * Bitrise.io: jonoirwin
+  * Please apply Contribution Discounts to this Bitrise.io user on my behalf: SovTech (organization)
+  * Steps I maintain:
+    * [Yarn](https://github.com/jonoirwinrsa/steps-yarn)
