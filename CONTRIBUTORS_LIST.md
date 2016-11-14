@@ -83,3 +83,10 @@
   * Please apply Contribution Discounts to this Bitrise.io user on my behalf: SovTech (organization)
   * Steps I maintain:
     * [Yarn](https://github.com/jonoirwinrsa/steps-yarn)
+* Alexandre Moureaux
+  * GitHub: @almouro
+  * Bitrise.io: Almouro
+  * Please apply Contribution Discounts to this Bitrise.io user on my behalf: BAM (organization)
+  * Steps I maintain:
+    * [NVM](https://github.com/almouro/bitrise-nvm-step)
+    * [Giphy](https://github.com/almouro/bitrise-giphy-step)
