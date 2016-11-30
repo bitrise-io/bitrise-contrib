@@ -90,3 +90,11 @@
   * Steps I maintain:
     * [NVM](https://github.com/almouro/bitrise-nvm-step)
     * [Giphy](https://github.com/almouro/bitrise-giphy-step)
+* Nick Hammond
+  * GitHub: @nhammond101
+  * Bitrise.io: nhammond
+  * Please apply Contribution Discounts to this Bitrise.io user on my behalf: Waracle (organization)
+  * Steps I maintain:
+    * [Gulp](https://github.com/nhammond101/steps-gulp)
+    * [Bower](https://github.com/nhammond101/steps-bower)    
+    
