@@ -19,11 +19,11 @@ Bitrise step contribution means development of a step/integration, and sharing i
 
 ## Get started
 
-0. A step consist of a simple script and a yml, which is the interface of the script `bitrise` works with. Read more about [step development on the Dev Center](http://devcenter.bitrise.io/docs/step-dev).
+0. A step consist of a simple script and a yml, which is the interface of the script `bitrise` works with. Read more about [step development on the Dev Center](http://devcenter.bitrise.io/bitrise-cli/steps/).
 
 1. It's recommended to write your script in any of the following languages: Bash, Ruby, Go. It's possible to use Node.js, or Swift as well if you insist, but these are not likely trivial to use on our Linux VMs at the moment, so please only consider using them in case of OS X specific scripts.
 
-2. Install the [Bitrise CLI](https://github.com/bitrise-io/bitrise) to run your workflows locally and start developing your own step! 🔨 Check out the docs about [using the CLI on the Dev Center](http://devcenter.bitrise.io/docs/bitrise-command-line-interface-how-to-guide).
+2. Install the [Bitrise CLI](https://github.com/bitrise-io/bitrise) to run your workflows locally and start developing your own step! 🔨 Check out the docs about [using the CLI on the Dev Center](http://devcenter.bitrise.io/bitrise-cli/).
 
 3. If you feel you are ready, shoot `bitrise share` and follow the instructions. Once your step is merged to the Bitrise StepLib, you become a Bitrise step contributor! 🍷
 
