@@ -1,3 +1,8 @@
+__This list was moved to [discuss.bitrise.io/t/bitrise-contributors/167](https://discuss.bitrise.io/t/bitrise-contributors/167). Please don't send us Pull Requests here, instead join us on [discuss.bitrise.io](https://discuss.bitrise.io/t/bitrise-contributors/167)!__
+
+
+---
+
 # List of Contributors
 
 ## Bitrise Core Team Members
